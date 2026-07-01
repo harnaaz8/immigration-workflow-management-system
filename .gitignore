@@ -1,0 +1,47 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+
+# Environment Variables
+
+.env
+
+# Uploads
+
+uploads/
+
+# Node
+
+node_modules/
+
+# Build
+
+dist/
+build/
+
+# VS Code
+
+.vscode/
+
+# Logs
+
+*.log
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+
+# PDF documents
+*.pdf
